@@ -272,8 +272,8 @@ h6 {
 #hero p {
   color: #fff;
   margin-bottom: 50px;
-  font-size: 95px;
-  font-family: 'Hey November';
+  font-size: 65px;
+  font-family: 'Sarpanch', sans-serif;
 }
 
 
@@ -282,7 +282,7 @@ h6 {
   color: #fff;
   padding-bottom: 4px;
   letter-spacing: 1px;
-  font-family: 'Hey November'
+font-family: 'Sarpanch', sans-serif;
   
 }
 
