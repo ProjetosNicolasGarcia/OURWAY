@@ -263,7 +263,7 @@ h6 {
 
 @font-face {
   font-family: 'Hey November';
-  src: url('HeyNovember.ttf') format('truetype');
+  src: url('../OURWAY/HeyNovember.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -282,6 +282,7 @@ h6 {
   color: #fff;
   padding-bottom: 4px;
   letter-spacing: 1px;
+  font-family: 'Hey November'
   
 }
 
